@@ -1,8 +1,9 @@
-# Dados (não versionar bases grandes)
-data/raw/*
+# Dados processados (gerados pelo codigo)
 data/processed/*
-!data/raw/.gitkeep
 !data/processed/.gitkeep
+
+
+
 
 # Modelos
 models/*.joblib

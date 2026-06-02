@@ -1,0 +1,2690 @@
+{
+ "Scotland": {
+  "elo": 1717.2,
+  "form_points": 0.6,
+  "form_gf": 2.0,
+  "form_ga": 1.0,
+  "pen_share": 0.053,
+  "scorer_diversity": 1.9
+ },
+ "England": {
+  "elo": 1882.1,
+  "form_points": 0.2,
+  "form_gf": 0.5,
+  "form_ga": 1.0,
+  "pen_share": 0.1,
+  "scorer_diversity": 2.8
+ },
+ "Wales": {
+  "elo": 1698.6,
+  "form_points": 1.6,
+  "form_gf": 2.4,
+  "form_ga": 1.4,
+  "pen_share": 0.115,
+  "scorer_diversity": 2.3
+ },
+ "Northern Ireland": {
+  "elo": 1605.3,
+  "form_points": 0.8,
+  "form_gf": 0.4,
+  "form_ga": 1.0,
+  "pen_share": 0.087,
+  "scorer_diversity": 2.1
+ },
+ "United States": {
+  "elo": 1726.2,
+  "form_points": 0.6,
+  "form_gf": 1.5,
+  "form_ga": 2.0,
+  "pen_share": 0.0,
+  "scorer_diversity": 1.7
+ },
+ "Canada": {
+  "elo": 1738.6,
+  "form_points": 0.4,
+  "form_gf": 1.0,
+  "form_ga": 1.0,
+  "pen_share": 0.136,
+  "scorer_diversity": 2.1
+ },
+ "Uruguay": {
+  "elo": 1843.2,
+  "form_points": 0.4,
+  "form_gf": 0.5,
+  "form_ga": 0.5,
+  "pen_share": 0.0,
+  "scorer_diversity": 2.4
+ },
+ "Argentina": {
+  "elo": 2011.3,
+  "form_points": 1.2,
+  "form_gf": 3.5,
+  "form_ga": 0.5,
+  "pen_share": 0.0,
+  "scorer_diversity": 1.7
+ },
+ "Austria": {
+  "elo": 1834.6,
+  "form_points": 1.2,
+  "form_gf": 3.0,
+  "form_ga": 0.5,
+  "pen_share": 0.077,
+  "scorer_diversity": 2.0
+ },
+ "Hungary": {
+  "elo": 1727.9,
+  "form_points": 1.6,
+  "form_gf": 1.2,
+  "form_ga": 1.0,
+  "pen_share": 0.125,
+  "scorer_diversity": 1.4
+ },
+ "Czechoslovakia": {
+  "elo": 1716.6,
+  "form_points": 2.2,
+  "form_gf": 2.6,
+  "form_ga": 0.8,
+  "pen_share": 0.091,
+  "scorer_diversity": 1.8
+ },
+ "Belgium": {
+  "elo": 1827.4,
+  "form_points": 0.8,
+  "form_gf": 3.0,
+  "form_ga": 1.5,
+  "pen_share": 0.118,
+  "scorer_diversity": 2.7
+ },
+ "France": {
+  "elo": 1966.2,
+  "form_points": 1.2,
+  "form_gf": 2.5,
+  "form_ga": 1.0,
+  "pen_share": 0.111,
+  "scorer_diversity": 2.5
+ },
+ "Switzerland": {
+  "elo": 1840.7,
+  "form_points": 0.8,
+  "form_gf": 2.0,
+  "form_ga": 0.5,
+  "pen_share": 0.19,
+  "scorer_diversity": 2.0
+ },
+ "Guernsey": {
+  "elo": 1681.5,
+  "form_points": 1.8,
+  "form_gf": 1.4,
+  "form_ga": 0.8,
+  "pen_share": 0.0,
+  "scorer_diversity": 1.0
+ },
+ "Alderney": {
+  "elo": 1149.9,
+  "form_points": 0.6,
+  "form_gf": 1.2,
+  "form_ga": 3.8,
+  "pen_share": 0.0,
+  "scorer_diversity": 1.0
+ },
+ "Jersey": {
+  "elo": 1746.3,
+  "form_points": 2.0,
+  "form_gf": 2.8,
+  "form_ga": 1.8,
+  "pen_share": 0.0,
+  "scorer_diversity": 1.0
+ },
+ "Netherlands": {
+  "elo": 1883.5,
+  "form_points": 0.8,
+  "form_gf": 1.5,
+  "form_ga": 1.0,
+  "pen_share": 0.219,
+  "scorer_diversity": 2.8
+ },
+ "Guyana": {
+  "elo": 1470.5,
+  "form_points": 3.0,
+  "form_gf": 2.8,
+  "form_ga": 0.6,
+  "pen_share": 0.125,
+  "scorer_diversity": 1.9
+ },
+ "Trinidad and Tobago": {
+  "elo": 1511.0,
+  "form_points": 0.4,
+  "form_gf": 1.0,
+  "form_ga": 3.2,
+  "pen_share": 0.08,
+  "scorer_diversity": 2.2
+ },
+ "Germany": {
+  "elo": 1877.8,
+  "form_points": 1.2,
+  "form_gf": 3.0,
+  "form_ga": 0.5,
+  "pen_share": 0.067,
+  "scorer_diversity": 2.5
+ },
+ "Sweden": {
+  "elo": 1773.4,
+  "form_points": 1.2,
+  "form_gf": 3.0,
+  "form_ga": 1.5,
+  "pen_share": 0.038,
+  "scorer_diversity": 1.8
+ },
+ "Norway": {
+  "elo": 1797.1,
+  "form_points": 0.2,
+  "form_gf": 0.5,
+  "form_ga": 1.0,
+  "pen_share": 0.022,
+  "scorer_diversity": 3.1
+ },
+ "Denmark": {
+  "elo": 1838.7,
+  "form_points": 1.6,
+  "form_gf": 2.6,
+  "form_ga": 1.8,
+  "pen_share": 0.038,
+  "scorer_diversity": 2.3
+ },
+ "Italy": {
+  "elo": 1871.3,
+  "form_points": 2.0,
+  "form_gf": 1.8,
+  "form_ga": 1.0,
+  "pen_share": 0.074,
+  "scorer_diversity": 2.3
+ },
+ "Chile": {
+  "elo": 1743.6,
+  "form_points": 2.4,
+  "form_gf": 2.2,
+  "form_ga": 1.6,
+  "pen_share": 0.0,
+  "scorer_diversity": 1.6
+ },
+ "Russia": {
+  "elo": 1762.0,
+  "form_points": 1.0,
+  "form_gf": 0.8,
+  "form_ga": 1.0,
+  "pen_share": 0.095,
+  "scorer_diversity": 1.9
+ },
+ "Finland": {
+  "elo": 1578.0,
+  "form_points": 1.4,
+  "form_gf": 1.4,
+  "form_ga": 1.2,
+  "pen_share": 0.176,
+  "scorer_diversity": 1.6
+ },
+ "Luxembourg": {
+  "elo": 1444.3,
+  "form_points": 0.0,
+  "form_gf": 0.0,
+  "form_ga": 2.0,
+  "pen_share": 0.167,
+  "scorer_diversity": 1.7
+ },
+ "Catalonia": {
+  "elo": 1659.6,
+  "form_points": 1.6,
+  "form_gf": 2.0,
+  "form_ga": 1.4,
+  "pen_share": 0.0,
+  "scorer_diversity": 1.0
+ },
+ "Philippines": {
+  "elo": 1353.3,
+  "form_points": 2.6,
+  "form_gf": 3.0,
+  "form_ga": 1.0,
+  "pen_share": 0.0,
+  "scorer_diversity": 2.0
+ },
+ "China PR": {
+  "elo": 1527.3,
+  "form_points": 1.4,
+  "form_gf": 1.0,
+  "form_ga": 1.0,
+  "pen_share": 0.125,
+  "scorer_diversity": 1.4
+ },
+ "Brazil": {
+  "elo": 1917.0,
+  "form_points": 1.2,
+  "form_gf": 4.5,
+  "form_ga": 1.5,
+  "pen_share": 0.176,
+  "scorer_diversity": 1.6
+ },
+ "Basque Country": {
+  "elo": 1762.8,
+  "form_points": 2.2,
+  "form_gf": 2.0,
+  "form_ga": 0.8,
+  "pen_share": 0.0,
+  "scorer_diversity": 1.0
+ },
+ "Japan": {
+  "elo": 1897.3,
+  "form_points": 1.2,
+  "form_gf": 1.0,
+  "form_ga": 0.0,
+  "pen_share": 0.05,
+  "scorer_diversity": 3.3
+ },
+ "Paraguay": {
+  "elo": 1822.8,
+  "form_points": 0.6,
+  "form_gf": 1.0,
+  "form_ga": 1.0,
+  "pen_share": 0.067,
+  "scorer_diversity": 1.4
+ },
+ "Romania": {
+  "elo": 1631.1,
+  "form_points": 1.2,
+  "form_gf": 1.8,
+  "form_ga": 1.4,
+  "pen_share": 0.179,
+  "scorer_diversity": 2.6
+ },
+ "Greece": {
+  "elo": 1733.2,
+  "form_points": 1.0,
+  "form_gf": 0.8,
+  "form_ga": 1.2,
+  "pen_share": 0.0,
+  "scorer_diversity": 2.2
+ },
+ "Yugoslavia": {
+  "elo": 1751.1,
+  "form_points": 1.2,
+  "form_gf": 1.6,
+  "form_ga": 1.8,
+  "pen_share": 0.0,
+  "scorer_diversity": 2.3
+ },
+ "Spain": {
+  "elo": 2002.1,
+  "form_points": 0.8,
+  "form_gf": 1.5,
+  "form_ga": 0.0,
+  "pen_share": 0.121,
+  "scorer_diversity": 2.6
+ },
+ "Egypt": {
+  "elo": 1773.6,
+  "form_points": 0.8,
+  "form_gf": 0.5,
+  "form_ga": 0.0,
+  "pen_share": 0.158,
+  "scorer_diversity": 1.8
+ },
+ "Estonia": {
+  "elo": 1434.1,
+  "form_points": 1.0,
+  "form_gf": 1.4,
+  "form_ga": 2.0,
+  "pen_share": 0.0,
+  "scorer_diversity": 1.7
+ },
+ "Suriname": {
+  "elo": 1538.1,
+  "form_points": 1.0,
+  "form_gf": 1.6,
+  "form_ga": 1.4,
+  "pen_share": 0.105,
+  "scorer_diversity": 1.7
+ },
+ "Provence": {
+  "elo": 1448.4,
+  "form_points": 1.2,
+  "form_gf": 6.2,
+  "form_ga": 2.4,
+  "pen_share": 0.0,
+  "scorer_diversity": 1.0
+ },
+ "Costa Rica": {
+  "elo": 1674.1,
+  "form_points": 1.0,
+  "form_gf": 1.2,
+  "form_ga": 1.8,
+  "pen_share": 0.129,
+  "scorer_diversity": 2.8
+ },
+ "El Salvador": {
+  "elo": 1484.8,
+  "form_points": 0.8,
+  "form_gf": 0.6,
+  "form_ga": 2.0,
+  "pen_share": 0.062,
+  "scorer_diversity": 1.6
+ },
+ "Guatemala": {
+  "elo": 1592.0,
+  "form_points": 1.4,
+  "form_gf": 1.4,
+  "form_ga": 2.4,
+  "pen_share": 0.056,
+  "scorer_diversity": 1.6
+ },
+ "Poland": {
+  "elo": 1736.3,
+  "form_points": 1.4,
+  "form_gf": 1.6,
+  "form_ga": 1.8,
+  "pen_share": 0.0,
+  "scorer_diversity": 1.7
+ },
+ "Portugal": {
+  "elo": 1906.9,
+  "form_points": 0.8,
+  "form_gf": 1.0,
+  "form_ga": 0.0,
+  "pen_share": 0.114,
+  "scorer_diversity": 2.6
+ },
+ "Brittany": {
+  "elo": 1516.2,
+  "form_points": 1.8,
+  "form_gf": 1.2,
+  "form_ga": 1.0,
+  "pen_share": 0.0,
+  "scorer_diversity": 1.0
+ },
+ "New Zealand": {
+  "elo": 1648.0,
+  "form_points": 0.6,
+  "form_gf": 2.0,
+  "form_ga": 1.5,
+  "pen_share": 0.02,
+  "scorer_diversity": 4.0
+ },
+ "Australia": {
+  "elo": 1811.1,
+  "form_points": 0.6,
+  "form_gf": 2.5,
+  "form_ga": 1.0,
+  "pen_share": 0.107,
+  "scorer_diversity": 2.4
+ },
+ "Latvia": {
+  "elo": 1372.4,
+  "form_points": 0.4,
+  "form_gf": 0.6,
+  "form_ga": 2.0,
+  "pen_share": 0.083,
+  "scorer_diversity": 1.2
+ },
+ "Galicia": {
+  "elo": 1538.1,
+  "form_points": 1.4,
+  "form_gf": 1.4,
+  "form_ga": 2.6,
+  "pen_share": 0.0,
+  "scorer_diversity": 1.0
+ },
+ "Central Spain": {
+  "elo": 1501.0,
+  "form_points": 1.5,
+  "form_gf": 1.0,
+  "form_ga": 2.0,
+  "pen_share": 0.0,
+  "scorer_diversity": 1.0
+ },
+ "Mexico": {
+  "elo": 1797.1,
+  "form_points": 1.2,
+  "form_gf": 1.5,
+  "form_ga": 0.0,
+  "pen_share": 0.05,
+  "scorer_diversity": 1.9
+ },
+ "Andalusia": {
+  "elo": 1603.0,
+  "form_points": 2.6,
+  "form_gf": 2.2,
+  "form_ga": 0.6,
+  "pen_share": 0.0,
+  "scorer_diversity": 1.0
+ },
+ "Asturias": {
+  "elo": 1519.0,
+  "form_points": 3.0,
+  "form_gf": 3.0,
+  "form_ga": 1.0,
+  "pen_share": 0.0,
+  "scorer_diversity": 1.0
+ },
+ "Lithuania": {
+  "elo": 1370.8,
+  "form_points": 0.8,
+  "form_gf": 0.4,
+  "form_ga": 1.6,
+  "pen_share": 0.154,
+  "scorer_diversity": 1.2
+ },
+ "Turkey": {
+  "elo": 1855.4,
+  "form_points": 1.2,
+  "form_gf": 1.0,
+  "form_ga": 0.0,
+  "pen_share": 0.077,
+  "scorer_diversity": 2.3
+ },
+ "Aruba": {
+  "elo": 1265.7,
+  "form_points": 2.0,
+  "form_gf": 2.2,
+  "form_ga": 1.4,
+  "pen_share": 0.053,
+  "scorer_diversity": 1.7
+ },
+ "Curaçao": {
+  "elo": 1562.8,
+  "form_points": 0.0,
+  "form_gf": 1.0,
+  "form_ga": 4.5,
+  "pen_share": 0.1,
+  "scorer_diversity": 2.4
+ },
+ "Bulgaria": {
+  "elo": 1548.9,
+  "form_points": 1.8,
+  "form_gf": 2.6,
+  "form_ga": 1.8,
+  "pen_share": 0.077,
+  "scorer_diversity": 1.3
+ },
+ "Republic of Ireland": {
+  "elo": 1692.3,
+  "form_points": 2.2,
+  "form_gf": 2.2,
+  "form_ga": 0.8,
+  "pen_share": 0.111,
+  "scorer_diversity": 1.5
+ },
+ "South Africa": {
+  "elo": 1642.7,
+  "form_points": 0.2,
+  "form_gf": 0.5,
+  "form_ga": 1.0,
+  "pen_share": 0.1,
+  "scorer_diversity": 1.9
+ },
+ "Haiti": {
+  "elo": 1659.8,
+  "form_points": 0.2,
+  "form_gf": 0.5,
+  "form_ga": 1.0,
+  "pen_share": 0.0,
+  "scorer_diversity": 2.0
+ },
+ "Jamaica": {
+  "elo": 1637.7,
+  "form_points": 2.0,
+  "form_gf": 0.8,
+  "form_ga": 0.2,
+  "pen_share": 0.0,
+  "scorer_diversity": 1.9
+ },
+ "Kenya": {
+  "elo": 1483.3,
+  "form_points": 1.4,
+  "form_gf": 1.0,
+  "form_ga": 2.4,
+  "pen_share": 0.143,
+  "scorer_diversity": 1.8
+ },
+ "Uganda": {
+  "elo": 1499.0,
+  "form_points": 0.8,
+  "form_gf": 1.0,
+  "form_ga": 2.4,
+  "pen_share": 0.071,
+  "scorer_diversity": 1.3
+ },
+ "Bolivia": {
+  "elo": 1645.1,
+  "form_points": 1.4,
+  "form_gf": 1.4,
+  "form_ga": 1.0,
+  "pen_share": 0.294,
+  "scorer_diversity": 1.7
+ },
+ "Peru": {
+  "elo": 1695.2,
+  "form_points": 0.4,
+  "form_gf": 1.0,
+  "form_ga": 1.8,
+  "pen_share": 0.0,
+  "scorer_diversity": 1.7
+ },
+ "Honduras": {
+  "elo": 1627.4,
+  "form_points": 1.2,
+  "form_gf": 1.0,
+  "form_ga": 0.8,
+  "pen_share": 0.0,
+  "scorer_diversity": 2.3
+ },
+ "Belarus": {
+  "elo": 1560.8,
+  "form_points": 1.6,
+  "form_gf": 1.2,
+  "form_ga": 1.0,
+  "pen_share": 0.071,
+  "scorer_diversity": 1.4
+ },
+ "Ukraine": {
+  "elo": 1803.9,
+  "form_points": 1.8,
+  "form_gf": 1.2,
+  "form_ga": 1.4,
+  "pen_share": 0.053,
+  "scorer_diversity": 1.8
+ },
+ "Barbados": {
+  "elo": 1220.5,
+  "form_points": 0.6,
+  "form_gf": 1.4,
+  "form_ga": 2.6,
+  "pen_share": 0.143,
+  "scorer_diversity": 1.3
+ },
+ "Nicaragua": {
+  "elo": 1466.8,
+  "form_points": 0.8,
+  "form_gf": 0.8,
+  "form_ga": 1.8,
+  "pen_share": 0.074,
+  "scorer_diversity": 2.4
+ },
+ "Cuba": {
+  "elo": 1419.7,
+  "form_points": 1.6,
+  "form_gf": 1.6,
+  "form_ga": 1.0,
+  "pen_share": 0.2,
+  "scorer_diversity": 1.5
+ },
+ "Martinique": {
+  "elo": 1461.3,
+  "form_points": 0.4,
+  "form_gf": 0.4,
+  "form_ga": 1.2,
+  "pen_share": 0.105,
+  "scorer_diversity": 1.7
+ },
+ "Dominica": {
+  "elo": 1245.0,
+  "form_points": 0.2,
+  "form_gf": 0.6,
+  "form_ga": 2.4,
+  "pen_share": 0.0,
+  "scorer_diversity": 1.7
+ },
+ "Silesia": {
+  "elo": 1497.1,
+  "form_points": 1.6,
+  "form_gf": 3.6,
+  "form_ga": 2.0,
+  "pen_share": 0.0,
+  "scorer_diversity": 1.0
+ },
+ "Guadeloupe": {
+  "elo": 1490.3,
+  "form_points": 1.2,
+  "form_gf": 1.4,
+  "form_ga": 2.0,
+  "pen_share": 0.167,
+  "scorer_diversity": 1.6
+ },
+ "Israel": {
+  "elo": 1632.3,
+  "form_points": 1.0,
+  "form_gf": 1.2,
+  "form_ga": 2.2,
+  "pen_share": 0.087,
+  "scorer_diversity": 2.1
+ },
+ "Indonesia": {
+  "elo": 1453.9,
+  "form_points": 0.8,
+  "form_gf": 1.2,
+  "form_ga": 1.0,
+  "pen_share": 0.188,
+  "scorer_diversity": 1.4
+ },
+ "French Guiana": {
+  "elo": 1418.9,
+  "form_points": 0.4,
+  "form_gf": 1.4,
+  "form_ga": 2.0,
+  "pen_share": 0.0,
+  "scorer_diversity": 2.0
+ },
+ "Saint Lucia": {
+  "elo": 1303.5,
+  "form_points": 0.6,
+  "form_gf": 0.8,
+  "form_ga": 3.4,
+  "pen_share": 0.158,
+  "scorer_diversity": 1.6
+ },
+ "Colombia": {
+  "elo": 1899.0,
+  "form_points": 0.0,
+  "form_gf": 1.0,
+  "form_ga": 2.5,
+  "pen_share": 0.043,
+  "scorer_diversity": 2.0
+ },
+ "Panama": {
+  "elo": 1730.3,
+  "form_points": 0.6,
+  "form_gf": 2.0,
+  "form_ga": 3.5,
+  "pen_share": 0.174,
+  "scorer_diversity": 1.9
+ },
+ "Venezuela": {
+  "elo": 1747.2,
+  "form_points": 1.4,
+  "form_gf": 1.0,
+  "form_ga": 0.8,
+  "pen_share": 0.062,
+  "scorer_diversity": 1.6
+ },
+ "Ecuador": {
+  "elo": 1868.5,
+  "form_points": 0.8,
+  "form_gf": 1.5,
+  "form_ga": 1.0,
+  "pen_share": 0.176,
+  "scorer_diversity": 1.5
+ },
+ "Saint Kitts and Nevis": {
+  "elo": 1331.8,
+  "form_points": 1.4,
+  "form_gf": 1.6,
+  "form_ga": 2.6,
+  "pen_share": 0.107,
+  "scorer_diversity": 2.2
+ },
+ "Grenada": {
+  "elo": 1317.1,
+  "form_points": 0.6,
+  "form_gf": 0.4,
+  "form_ga": 2.6,
+  "pen_share": 0.158,
+  "scorer_diversity": 1.8
+ },
+ "India": {
+  "elo": 1304.3,
+  "form_points": 0.2,
+  "form_gf": 0.4,
+  "form_ga": 1.4,
+  "pen_share": 0.143,
+  "scorer_diversity": 1.2
+ },
+ "Slovakia": {
+  "elo": 1675.5,
+  "form_points": 1.8,
+  "form_gf": 1.6,
+  "form_ga": 2.0,
+  "pen_share": 0.056,
+  "scorer_diversity": 1.7
+ },
+ "Manchukuo": {
+  "elo": 1451.3,
+  "form_points": 0.0,
+  "form_gf": 0.0,
+  "form_ga": 5.333,
+  "pen_share": 0.0,
+  "scorer_diversity": 1.0
+ },
+ "Croatia": {
+  "elo": 1892.3,
+  "form_points": 0.6,
+  "form_gf": 1.5,
+  "form_ga": 2.0,
+  "pen_share": 0.094,
+  "scorer_diversity": 2.9
+ },
+ "Lebanon": {
+  "elo": 1445.5,
+  "form_points": 2.0,
+  "form_gf": 2.0,
+  "form_ga": 0.4,
+  "pen_share": 0.15,
+  "scorer_diversity": 1.5
+ },
+ "Puerto Rico": {
+  "elo": 1375.3,
+  "form_points": 1.8,
+  "form_gf": 1.6,
+  "form_ga": 1.6,
+  "pen_share": 0.097,
+  "scorer_diversity": 2.6
+ },
+ "Afghanistan": {
+  "elo": 1268.1,
+  "form_points": 0.4,
+  "form_gf": 0.4,
+  "form_ga": 1.2,
+  "pen_share": 0.083,
+  "scorer_diversity": 1.2
+ },
+ "Iran": {
+  "elo": 1824.0,
+  "form_points": 1.2,
+  "form_gf": 4.0,
+  "form_ga": 0.5,
+  "pen_share": 0.083,
+  "scorer_diversity": 1.9
+ },
+ "Mongolia": {
+  "elo": 1108.8,
+  "form_points": 0.6,
+  "form_gf": 0.6,
+  "form_ga": 3.0,
+  "pen_share": 0.182,
+  "scorer_diversity": 1.222
+ },
+ "Tanzania": {
+  "elo": 1402.2,
+  "form_points": 1.0,
+  "form_gf": 1.6,
+  "form_ga": 0.8,
+  "pen_share": 0.167,
+  "scorer_diversity": 1.2
+ },
+ "Zimbabwe": {
+  "elo": 1458.6,
+  "form_points": 0.8,
+  "form_gf": 1.4,
+  "form_ga": 1.6,
+  "pen_share": 0.0,
+  "scorer_diversity": 1.3
+ },
+ "Zambia": {
+  "elo": 1522.5,
+  "form_points": 0.4,
+  "form_gf": 0.6,
+  "form_ga": 2.4,
+  "pen_share": 0.062,
+  "scorer_diversity": 1.3
+ },
+ "Iceland": {
+  "elo": 1602.0,
+  "form_points": 0.4,
+  "form_gf": 0.6,
+  "form_ga": 2.0,
+  "pen_share": 0.0,
+  "scorer_diversity": 1.8
+ },
+ "Albania": {
+  "elo": 1640.4,
+  "form_points": 1.2,
+  "form_gf": 1.2,
+  "form_ga": 1.4,
+  "pen_share": 0.143,
+  "scorer_diversity": 1.3
+ },
+ "Montenegro": {
+  "elo": 1513.4,
+  "form_points": 1.8,
+  "form_gf": 2.0,
+  "form_ga": 1.6,
+  "pen_share": 0.056,
+  "scorer_diversity": 1.6
+ },
+ "Madagascar": {
+  "elo": 1488.9,
+  "form_points": 2.0,
+  "form_gf": 2.2,
+  "form_ga": 1.6,
+  "pen_share": 0.0,
+  "scorer_diversity": 1.8
+ },
+ "Mauritius": {
+  "elo": 1255.2,
+  "form_points": 0.4,
+  "form_gf": 0.8,
+  "form_ga": 2.0,
+  "pen_share": 0.059,
+  "scorer_diversity": 1.7
+ },
+ "Réunion": {
+  "elo": 1558.1,
+  "form_points": 1.2,
+  "form_gf": 0.8,
+  "form_ga": 0.8,
+  "pen_share": 0.0,
+  "scorer_diversity": 1.0
+ },
+ "Zanzibar": {
+  "elo": 1516.2,
+  "form_points": 2.0,
+  "form_gf": 1.2,
+  "form_ga": 0.8,
+  "pen_share": 0.0,
+  "scorer_diversity": 1.0
+ },
+ "Djibouti": {
+  "elo": 1146.4,
+  "form_points": 0.0,
+  "form_gf": 0.2,
+  "form_ga": 2.8,
+  "pen_share": 0.231,
+  "scorer_diversity": 1.3
+ },
+ "Ethiopia": {
+  "elo": 1406.2,
+  "form_points": 1.2,
+  "form_gf": 1.6,
+  "form_ga": 1.6,
+  "pen_share": 0.267,
+  "scorer_diversity": 1.1
+ },
+ "DR Congo": {
+  "elo": 1718.3,
+  "form_points": 1.2,
+  "form_gf": 1.5,
+  "form_ga": 0.0,
+  "pen_share": 0.062,
+  "scorer_diversity": 1.4
+ },
+ "South Korea": {
+  "elo": 1815.1,
+  "form_points": 0.6,
+  "form_gf": 2.5,
+  "form_ga": 0.5,
+  "pen_share": 0.048,
+  "scorer_diversity": 2.1
+ },
+ "Vietnam": {
+  "elo": 1504.8,
+  "form_points": 2.4,
+  "form_gf": 1.8,
+  "form_ga": 1.0,
+  "pen_share": 0.0,
+  "scorer_diversity": 1.7
+ },
+ "Macau": {
+  "elo": 993.6,
+  "form_points": 0.0,
+  "form_gf": 0.4,
+  "form_ga": 3.0,
+  "pen_share": 0.091,
+  "scorer_diversity": 1.1
+ },
+ "Dominican Republic": {
+  "elo": 1452.4,
+  "form_points": 1.2,
+  "form_gf": 1.0,
+  "form_ga": 0.8,
+  "pen_share": 0.083,
+  "scorer_diversity": 2.0
+ },
+ "Cyprus": {
+  "elo": 1392.8,
+  "form_points": 1.2,
+  "form_gf": 1.8,
+  "form_ga": 1.8,
+  "pen_share": 0.118,
+  "scorer_diversity": 1.7
+ },
+ "Sierra Leone": {
+  "elo": 1458.5,
+  "form_points": 1.6,
+  "form_gf": 1.2,
+  "form_ga": 0.8,
+  "pen_share": 0.0,
+  "scorer_diversity": 1.8
+ },
+ "Nigeria": {
+  "elo": 1756.4,
+  "form_points": 1.8,
+  "form_gf": 1.2,
+  "form_ga": 0.6,
+  "pen_share": 0.038,
+  "scorer_diversity": 2.1
+ },
+ "Syria": {
+  "elo": 1556.1,
+  "form_points": 1.6,
+  "form_gf": 0.8,
+  "form_ga": 0.4,
+  "pen_share": 0.211,
+  "scorer_diversity": 1.6
+ },
+ "Serbia": {
+  "elo": 1753.8,
+  "form_points": 1.2,
+  "form_gf": 0.8,
+  "form_ga": 2.0,
+  "pen_share": 0.111,
+  "scorer_diversity": 1.6
+ },
+ "Taiwan": {
+  "elo": 1189.9,
+  "form_points": 0.0,
+  "form_gf": 0.6,
+  "form_ga": 4.0,
+  "pen_share": 0.062,
+  "scorer_diversity": 1.5
+ },
+ "Ghana": {
+  "elo": 1611.2,
+  "form_points": 0.0,
+  "form_gf": 0.5,
+  "form_ga": 2.0,
+  "pen_share": 0.154,
+  "scorer_diversity": 2.1
+ },
+ "Myanmar": {
+  "elo": 1213.8,
+  "form_points": 1.4,
+  "form_gf": 1.0,
+  "form_ga": 2.0,
+  "pen_share": 0.0,
+  "scorer_diversity": 1.8
+ },
+ "New Caledonia": {
+  "elo": 1543.6,
+  "form_points": 1.4,
+  "form_gf": 1.2,
+  "form_ga": 1.0,
+  "pen_share": 0.25,
+  "scorer_diversity": 2.0
+ },
+ "Vanuatu": {
+  "elo": 1439.3,
+  "form_points": 1.6,
+  "form_gf": 1.6,
+  "form_ga": 1.2,
+  "pen_share": 0.045,
+  "scorer_diversity": 2.1
+ },
+ "Fiji": {
+  "elo": 1452.6,
+  "form_points": 0.0,
+  "form_gf": 0.0,
+  "form_ga": 4.4,
+  "pen_share": 0.2,
+  "scorer_diversity": 2.0
+ },
+ "Pakistan": {
+  "elo": 1109.0,
+  "form_points": 0.4,
+  "form_gf": 0.2,
+  "form_ga": 1.8,
+  "pen_share": 0.154,
+  "scorer_diversity": 1.1
+ },
+ "Sri Lanka": {
+  "elo": 1113.7,
+  "form_points": 0.8,
+  "form_gf": 0.6,
+  "form_ga": 2.0,
+  "pen_share": 0.05,
+  "scorer_diversity": 1.7
+ },
+ "German DR": {
+  "elo": 1705.0,
+  "form_points": 2.6,
+  "form_gf": 2.2,
+  "form_ga": 1.0,
+  "pen_share": 0.0,
+  "scorer_diversity": 1.8
+ },
+ "Tahiti": {
+  "elo": 1507.9,
+  "form_points": 1.8,
+  "form_gf": 1.4,
+  "form_ga": 1.4,
+  "pen_share": 0.056,
+  "scorer_diversity": 1.6
+ },
+ "Gambia": {
+  "elo": 1507.1,
+  "form_points": 0.8,
+  "form_gf": 2.8,
+  "form_ga": 2.4,
+  "pen_share": 0.1,
+  "scorer_diversity": 2.3
+ },
+ "Hong Kong": {
+  "elo": 1347.5,
+  "form_points": 1.6,
+  "form_gf": 3.0,
+  "form_ga": 1.4,
+  "pen_share": 0.059,
+  "scorer_diversity": 1.6
+ },
+ "Singapore": {
+  "elo": 1343.0,
+  "form_points": 2.0,
+  "form_gf": 2.2,
+  "form_ga": 1.2,
+  "pen_share": 0.0,
+  "scorer_diversity": 1.5
+ },
+ "Malaysia": {
+  "elo": 1504.1,
+  "form_points": 3.0,
+  "form_gf": 2.4,
+  "form_ga": 0.4,
+  "pen_share": 0.158,
+  "scorer_diversity": 1.7
+ },
+ "Guinea-Bissau": {
+  "elo": 1378.4,
+  "form_points": 0.8,
+  "form_gf": 0.6,
+  "form_ga": 1.6,
+  "pen_share": 0.0,
+  "scorer_diversity": 1.4
+ },
+ "Saarland": {
+  "elo": 1443.8,
+  "form_points": 0.2,
+  "form_gf": 1.2,
+  "form_ga": 3.6,
+  "pen_share": 0.25,
+  "scorer_diversity": 2.0
+ },
+ "Burundi": {
+  "elo": 1413.6,
+  "form_points": 0.0,
+  "form_gf": 0.0,
+  "form_ga": 2.2,
+  "pen_share": 0.05,
+  "scorer_diversity": 1.6
+ },
+ "Cameroon": {
+  "elo": 1662.3,
+  "form_points": 1.8,
+  "form_gf": 1.2,
+  "form_ga": 1.0,
+  "pen_share": 0.091,
+  "scorer_diversity": 2.0
+ },
+ "Kernow": {
+  "elo": 1585.7,
+  "form_points": 2.6,
+  "form_gf": 3.0,
+  "form_ga": 1.0,
+  "pen_share": 0.0,
+  "scorer_diversity": 1.0
+ },
+ "Cambodia": {
+  "elo": 1126.2,
+  "form_points": 0.2,
+  "form_gf": 1.2,
+  "form_ga": 2.0,
+  "pen_share": 0.0,
+  "scorer_diversity": 1.6
+ },
+ "Thailand": {
+  "elo": 1527.6,
+  "form_points": 2.4,
+  "form_gf": 3.0,
+  "form_ga": 0.8,
+  "pen_share": 0.0,
+  "scorer_diversity": 1.4
+ },
+ "Vietnam Republic": {
+  "elo": 1402.8,
+  "form_points": 0.0,
+  "form_gf": 0.2,
+  "form_ga": 2.4,
+  "pen_share": 0.111,
+  "scorer_diversity": 1.333
+ },
+ "Kyrgyzstan": {
+  "elo": 1436.3,
+  "form_points": 1.0,
+  "form_gf": 1.6,
+  "form_ga": 2.0,
+  "pen_share": 0.053,
+  "scorer_diversity": 1.6
+ },
+ "Moldova": {
+  "elo": 1346.8,
+  "form_points": 0.2,
+  "form_gf": 0.8,
+  "form_ga": 2.4,
+  "pen_share": 0.077,
+  "scorer_diversity": 1.3
+ },
+ "North Vietnam": {
+  "elo": 1465.9,
+  "form_points": 1.4,
+  "form_gf": 1.8,
+  "form_ga": 1.6,
+  "pen_share": 0.0,
+  "scorer_diversity": 1.0
+ },
+ "Togo": {
+  "elo": 1475.4,
+  "form_points": 1.6,
+  "form_gf": 0.8,
+  "form_ga": 0.6,
+  "pen_share": 0.0,
+  "scorer_diversity": 1.3
+ },
+ "North Korea": {
+  "elo": 1505.0,
+  "form_points": 0.4,
+  "form_gf": 1.0,
+  "form_ga": 2.6,
+  "pen_share": 0.095,
+  "scorer_diversity": 1.7
+ },
+ "Sudan": {
+  "elo": 1470.1,
+  "form_points": 0.6,
+  "form_gf": 0.6,
+  "form_ga": 2.2,
+  "pen_share": 0.143,
+  "scorer_diversity": 1.4
+ },
+ "Malta": {
+  "elo": 1379.2,
+  "form_points": 1.2,
+  "form_gf": 1.4,
+  "form_ga": 2.4,
+  "pen_share": 0.273,
+  "scorer_diversity": 1.1
+ },
+ "Tunisia": {
+  "elo": 1705.3,
+  "form_points": 0.8,
+  "form_gf": 0.5,
+  "form_ga": 0.0,
+  "pen_share": 0.217,
+  "scorer_diversity": 2.0
+ },
+ "Libya": {
+  "elo": 1530.4,
+  "form_points": 1.4,
+  "form_gf": 0.6,
+  "form_ga": 0.4,
+  "pen_share": 0.143,
+  "scorer_diversity": 1.4
+ },
+ "Malawi": {
+  "elo": 1434.8,
+  "form_points": 1.4,
+  "form_gf": 0.8,
+  "form_ga": 0.4,
+  "pen_share": 0.067,
+  "scorer_diversity": 1.4
+ },
+ "Morocco": {
+  "elo": 1890.8,
+  "form_points": 1.2,
+  "form_gf": 3.5,
+  "form_ga": 0.5,
+  "pen_share": 0.095,
+  "scorer_diversity": 1.9
+ },
+ "Benin": {
+  "elo": 1537.4,
+  "form_points": 1.8,
+  "form_gf": 0.8,
+  "form_ga": 1.2,
+  "pen_share": 0.0,
+  "scorer_diversity": 1.6
+ },
+ "Cape Verde": {
+  "elo": 1681.8,
+  "form_points": 0.8,
+  "form_gf": 2.0,
+  "form_ga": 0.5,
+  "pen_share": 0.059,
+  "scorer_diversity": 1.6
+ },
+ "Ivory Coast": {
+  "elo": 1759.3,
+  "form_points": 1.2,
+  "form_gf": 2.5,
+  "form_ga": 0.0,
+  "pen_share": 0.043,
+  "scorer_diversity": 2.3
+ },
+ "Burkina Faso": {
+  "elo": 1638.4,
+  "form_points": 1.4,
+  "form_gf": 1.6,
+  "form_ga": 1.0,
+  "pen_share": 0.125,
+  "scorer_diversity": 1.9
+ },
+ "Gabon": {
+  "elo": 1518.6,
+  "form_points": 0.2,
+  "form_gf": 1.4,
+  "form_ga": 2.4,
+  "pen_share": 0.04,
+  "scorer_diversity": 1.8
+ },
+ "Congo": {
+  "elo": 1360.3,
+  "form_points": 0.2,
+  "form_gf": 0.8,
+  "form_ga": 1.8,
+  "pen_share": 0.091,
+  "scorer_diversity": 1.1
+ },
+ "Mali": {
+  "elo": 1664.5,
+  "form_points": 0.8,
+  "form_gf": 0.4,
+  "form_ga": 0.6,
+  "pen_share": 0.158,
+  "scorer_diversity": 1.6
+ },
+ "Central African Republic": {
+  "elo": 1398.9,
+  "form_points": 1.2,
+  "form_gf": 1.0,
+  "form_ga": 2.4,
+  "pen_share": 0.0,
+  "scorer_diversity": 1.3
+ },
+ "Iraq": {
+  "elo": 1733.4,
+  "form_points": 1.2,
+  "form_gf": 1.5,
+  "form_ga": 0.5,
+  "pen_share": 0.071,
+  "scorer_diversity": 1.4
+ },
+ "Saint Vincent and the Grenadines": {
+  "elo": 1391.0,
+  "form_points": 1.8,
+  "form_gf": 1.6,
+  "form_ga": 1.6,
+  "pen_share": 0.143,
+  "scorer_diversity": 1.9
+ },
+ "Senegal": {
+  "elo": 1846.3,
+  "form_points": 0.6,
+  "form_gf": 2.5,
+  "form_ga": 2.0,
+  "pen_share": 0.077,
+  "scorer_diversity": 2.2
+ },
+ "Laos": {
+  "elo": 1061.9,
+  "form_points": 0.6,
+  "form_gf": 0.6,
+  "form_ga": 3.2,
+  "pen_share": 0.105,
+  "scorer_diversity": 1.6
+ },
+ "Mauritania": {
+  "elo": 1449.9,
+  "form_points": 0.2,
+  "form_gf": 0.4,
+  "form_ga": 2.0,
+  "pen_share": 0.062,
+  "scorer_diversity": 1.6
+ },
+ "Liberia": {
+  "elo": 1399.5,
+  "form_points": 1.0,
+  "form_gf": 1.2,
+  "form_ga": 1.4,
+  "pen_share": 0.167,
+  "scorer_diversity": 1.6
+ },
+ "Chad": {
+  "elo": 1291.1,
+  "form_points": 0.2,
+  "form_gf": 1.2,
+  "form_ga": 2.4,
+  "pen_share": 0.091,
+  "scorer_diversity": 1.1
+ },
+ "Niger": {
+  "elo": 1459.8,
+  "form_points": 1.0,
+  "form_gf": 0.8,
+  "form_ga": 1.0,
+  "pen_share": 0.08,
+  "scorer_diversity": 1.9
+ },
+ "Guinea": {
+  "elo": 1544.3,
+  "form_points": 1.2,
+  "form_gf": 1.4,
+  "form_ga": 1.2,
+  "pen_share": 0.062,
+  "scorer_diversity": 1.5
+ },
+ "Algeria": {
+  "elo": 1820.3,
+  "form_points": 0.8,
+  "form_gf": 3.5,
+  "form_ga": 0.0,
+  "pen_share": 0.115,
+  "scorer_diversity": 1.9
+ },
+ "Kuwait": {
+  "elo": 1475.6,
+  "form_points": 1.0,
+  "form_gf": 1.4,
+  "form_ga": 1.8,
+  "pen_share": 0.188,
+  "scorer_diversity": 1.2
+ },
+ "Jordan": {
+  "elo": 1689.8,
+  "form_points": 0.2,
+  "form_gf": 1.5,
+  "form_ga": 3.0,
+  "pen_share": 0.107,
+  "scorer_diversity": 2.1
+ },
+ "Papua New Guinea": {
+  "elo": 1465.1,
+  "form_points": 2.6,
+  "form_gf": 2.0,
+  "form_ga": 1.0,
+  "pen_share": 0.0,
+  "scorer_diversity": 1.5
+ },
+ "Solomon Islands": {
+  "elo": 1398.4,
+  "form_points": 0.0,
+  "form_gf": 1.2,
+  "form_ga": 4.0,
+  "pen_share": 0.19,
+  "scorer_diversity": 1.8
+ },
+ "Somalia": {
+  "elo": 1145.2,
+  "form_points": 0.8,
+  "form_gf": 0.4,
+  "form_ga": 1.4,
+  "pen_share": 0.0,
+  "scorer_diversity": 1.0
+ },
+ "Saudi Arabia": {
+  "elo": 1674.2,
+  "form_points": 0.0,
+  "form_gf": 1.0,
+  "form_ga": 2.0,
+  "pen_share": 0.125,
+  "scorer_diversity": 1.3
+ },
+ "Bermuda": {
+  "elo": 1357.0,
+  "form_points": 0.2,
+  "form_gf": 0.4,
+  "form_ga": 3.6,
+  "pen_share": 0.045,
+  "scorer_diversity": 2.1
+ },
+ "Palestine": {
+  "elo": 1541.9,
+  "form_points": 1.2,
+  "form_gf": 0.8,
+  "form_ga": 0.8,
+  "pen_share": 0.118,
+  "scorer_diversity": 1.4
+ },
+ "Bahrain": {
+  "elo": 1521.4,
+  "form_points": 1.2,
+  "form_gf": 1.4,
+  "form_ga": 2.0,
+  "pen_share": 0.056,
+  "scorer_diversity": 1.6
+ },
+ "Yemen": {
+  "elo": 1329.6,
+  "form_points": 2.2,
+  "form_gf": 4.4,
+  "form_ga": 1.0,
+  "pen_share": 0.062,
+  "scorer_diversity": 1.6
+ },
+ "Oman": {
+  "elo": 1590.1,
+  "form_points": 1.0,
+  "form_gf": 0.6,
+  "form_ga": 1.0,
+  "pen_share": 0.125,
+  "scorer_diversity": 1.3
+ },
+ "Wallis Islands and Futuna": {
+  "elo": 1357.3,
+  "form_points": 0.6,
+  "form_gf": 1.4,
+  "form_ga": 7.4,
+  "pen_share": 0.0,
+  "scorer_diversity": 1.0
+ },
+ "Corsica": {
+  "elo": 1556.9,
+  "form_points": 1.8,
+  "form_gf": 1.0,
+  "form_ga": 0.6,
+  "pen_share": 0.0,
+  "scorer_diversity": 1.0
+ },
+ "Western Australia": {
+  "elo": 1415.5,
+  "form_points": 1.0,
+  "form_gf": 1.4,
+  "form_ga": 1.6,
+  "pen_share": 0.0,
+  "scorer_diversity": 1.0
+ },
+ "Eswatini": {
+  "elo": 1349.8,
+  "form_points": 0.4,
+  "form_gf": 1.0,
+  "form_ga": 2.6,
+  "pen_share": 0.0,
+  "scorer_diversity": 1.7
+ },
+ "Botswana": {
+  "elo": 1422.6,
+  "form_points": 0.6,
+  "form_gf": 0.2,
+  "form_ga": 2.0,
+  "pen_share": 0.053,
+  "scorer_diversity": 1.8
+ },
+ "Qatar": {
+  "elo": 1592.4,
+  "form_points": 0.0,
+  "form_gf": 0.0,
+  "form_ga": 2.0,
+  "pen_share": 0.048,
+  "scorer_diversity": 2.0
+ },
+ "Lesotho": {
+  "elo": 1403.4,
+  "form_points": 0.8,
+  "form_gf": 0.4,
+  "form_ga": 1.4,
+  "pen_share": 0.0,
+  "scorer_diversity": 1.4
+ },
+ "Bahamas": {
+  "elo": 1131.6,
+  "form_points": 0.0,
+  "form_gf": 0.4,
+  "form_ga": 4.0,
+  "pen_share": 0.048,
+  "scorer_diversity": 1.667
+ },
+ "Brunei": {
+  "elo": 1038.2,
+  "form_points": 0.6,
+  "form_gf": 0.4,
+  "form_ga": 3.2,
+  "pen_share": 0.0,
+  "scorer_diversity": 1.0
+ },
+ "Cook Islands": {
+  "elo": 1275.5,
+  "form_points": 0.6,
+  "form_gf": 0.4,
+  "form_ga": 2.0,
+  "pen_share": 0.0,
+  "scorer_diversity": 1.0
+ },
+ "Yemen DPR": {
+  "elo": 1411.4,
+  "form_points": 0.8,
+  "form_gf": 0.8,
+  "form_ga": 2.2,
+  "pen_share": 0.0,
+  "scorer_diversity": 2.0
+ },
+ "United Arab Emirates": {
+  "elo": 1619.7,
+  "form_points": 1.0,
+  "form_gf": 1.2,
+  "form_ga": 1.6,
+  "pen_share": 0.1,
+  "scorer_diversity": 1.6
+ },
+ "Faroe Islands": {
+  "elo": 1426.7,
+  "form_points": 2.4,
+  "form_gf": 2.0,
+  "form_ga": 1.0,
+  "pen_share": 0.188,
+  "scorer_diversity": 1.5
+ },
+ "Nepal": {
+  "elo": 1205.8,
+  "form_points": 0.4,
+  "form_gf": 0.6,
+  "form_ga": 1.4,
+  "pen_share": 0.125,
+  "scorer_diversity": 2.1
+ },
+ "Antigua and Barbuda": {
+  "elo": 1224.8,
+  "form_points": 0.4,
+  "form_gf": 0.2,
+  "form_ga": 1.4,
+  "pen_share": 0.125,
+  "scorer_diversity": 1.4
+ },
+ "Bangladesh": {
+  "elo": 1202.7,
+  "form_points": 1.0,
+  "form_gf": 1.4,
+  "form_ga": 2.0,
+  "pen_share": 0.0,
+  "scorer_diversity": 1.2
+ },
+ "Seychelles": {
+  "elo": 1105.4,
+  "form_points": 0.0,
+  "form_gf": 0.0,
+  "form_ga": 5.6,
+  "pen_share": 0.0,
+  "scorer_diversity": 1.143
+ },
+ "Equatorial Guinea": {
+  "elo": 1463.0,
+  "form_points": 0.8,
+  "form_gf": 0.8,
+  "form_ga": 1.4,
+  "pen_share": 0.0,
+  "scorer_diversity": 1.6
+ },
+ "Mozambique": {
+  "elo": 1485.1,
+  "form_points": 0.8,
+  "form_gf": 1.2,
+  "form_ga": 2.2,
+  "pen_share": 0.176,
+  "scorer_diversity": 1.6
+ },
+ "Guam": {
+  "elo": 1123.7,
+  "form_points": 1.2,
+  "form_gf": 1.8,
+  "form_ga": 2.4,
+  "pen_share": 0.091,
+  "scorer_diversity": 1.5
+ },
+ "Angola": {
+  "elo": 1554.4,
+  "form_points": 1.0,
+  "form_gf": 1.0,
+  "form_ga": 1.4,
+  "pen_share": 0.0,
+  "scorer_diversity": 1.5
+ },
+ "São Tomé and Príncipe": {
+  "elo": 1240.2,
+  "form_points": 0.6,
+  "form_gf": 0.8,
+  "form_ga": 2.8,
+  "pen_share": 0.3,
+  "scorer_diversity": 1.125
+ },
+ "Rwanda": {
+  "elo": 1453.6,
+  "form_points": 1.8,
+  "form_gf": 1.4,
+  "form_ga": 0.8,
+  "pen_share": 0.0,
+  "scorer_diversity": 1.7
+ },
+ "Northern Cyprus": {
+  "elo": 1616.1,
+  "form_points": 2.2,
+  "form_gf": 3.2,
+  "form_ga": 1.0,
+  "pen_share": 0.0,
+  "scorer_diversity": 1.0
+ },
+ "Armenia": {
+  "elo": 1445.5,
+  "form_points": 0.0,
+  "form_gf": 0.4,
+  "form_ga": 3.0,
+  "pen_share": 0.1,
+  "scorer_diversity": 1.8
+ },
+ "Georgia": {
+  "elo": 1645.4,
+  "form_points": 0.8,
+  "form_gf": 1.2,
+  "form_ga": 2.4,
+  "pen_share": 0.043,
+  "scorer_diversity": 2.1
+ },
+ "Azerbaijan": {
+  "elo": 1428.8,
+  "form_points": 0.8,
+  "form_gf": 1.8,
+  "form_ga": 1.8,
+  "pen_share": 0.231,
+  "scorer_diversity": 1.2
+ },
+ "Kazakhstan": {
+  "elo": 1485.9,
+  "form_points": 1.6,
+  "form_gf": 1.0,
+  "form_ga": 0.6,
+  "pen_share": 0.176,
+  "scorer_diversity": 1.4
+ },
+ "Comoros": {
+  "elo": 1466.7,
+  "form_points": 0.6,
+  "form_gf": 0.0,
+  "form_ga": 0.6,
+  "pen_share": 0.0,
+  "scorer_diversity": 1.6
+ },
+ "Maldives": {
+  "elo": 1143.3,
+  "form_points": 0.8,
+  "form_gf": 0.8,
+  "form_ga": 1.6,
+  "pen_share": 0.105,
+  "scorer_diversity": 1.6
+ },
+ "Tonga": {
+  "elo": 1200.6,
+  "form_points": 1.2,
+  "form_gf": 2.2,
+  "form_ga": 2.0,
+  "pen_share": 0.111,
+  "scorer_diversity": 1.6
+ },
+ "Kiribati": {
+  "elo": 1371.1,
+  "form_points": 0.0,
+  "form_gf": 0.4,
+  "form_ga": 12.8,
+  "pen_share": 0.0,
+  "scorer_diversity": 1.0
+ },
+ "Tuvalu": {
+  "elo": 1317.6,
+  "form_points": 1.2,
+  "form_gf": 1.6,
+  "form_ga": 4.2,
+  "pen_share": 0.0,
+  "scorer_diversity": 1.0
+ },
+ "Samoa": {
+  "elo": 1317.2,
+  "form_points": 1.2,
+  "form_gf": 1.0,
+  "form_ga": 3.2,
+  "pen_share": 0.125,
+  "scorer_diversity": 1.5
+ },
+ "Greenland": {
+  "elo": 1455.2,
+  "form_points": 0.8,
+  "form_gf": 1.0,
+  "form_ga": 3.6,
+  "pen_share": 0.0,
+  "scorer_diversity": 1.0
+ },
+ "Liechtenstein": {
+  "elo": 1118.8,
+  "form_points": 0.6,
+  "form_gf": 0.6,
+  "form_ga": 2.8,
+  "pen_share": 0.167,
+  "scorer_diversity": 1.2
+ },
+ "Bhutan": {
+  "elo": 995.1,
+  "form_points": 0.0,
+  "form_gf": 0.4,
+  "form_ga": 3.4,
+  "pen_share": 0.091,
+  "scorer_diversity": 1.667
+ },
+ "South Yemen": {
+  "elo": 1474.8,
+  "form_points": 0.0,
+  "form_gf": 0.333,
+  "form_ga": 2.667,
+  "pen_share": 0.0,
+  "scorer_diversity": 1.0
+ },
+ "American Samoa": {
+  "elo": 1135.4,
+  "form_points": 0.0,
+  "form_gf": 0.8,
+  "form_ga": 4.6,
+  "pen_share": 0.0,
+  "scorer_diversity": 1.5
+ },
+ "Niue": {
+  "elo": 1476.4,
+  "form_points": 0.0,
+  "form_gf": 0.0,
+  "form_ga": 16.5,
+  "pen_share": 0.0,
+  "scorer_diversity": 1.0
+ },
+ "Belize": {
+  "elo": 1327.0,
+  "form_points": 1.2,
+  "form_gf": 2.0,
+  "form_ga": 2.0,
+  "pen_share": 0.056,
+  "scorer_diversity": 1.5
+ },
+ "Cayman Islands": {
+  "elo": 1191.0,
+  "form_points": 1.4,
+  "form_gf": 1.4,
+  "form_ga": 0.8,
+  "pen_share": 0.333,
+  "scorer_diversity": 1.0
+ },
+ "Anguilla": {
+  "elo": 1071.7,
+  "form_points": 1.2,
+  "form_gf": 1.0,
+  "form_ga": 2.6,
+  "pen_share": 1.0,
+  "scorer_diversity": 1.0
+ },
+ "British Virgin Islands": {
+  "elo": 1153.0,
+  "form_points": 2.0,
+  "form_gf": 2.8,
+  "form_ga": 1.2,
+  "pen_share": 0.125,
+  "scorer_diversity": 1.167
+ },
+ "Palau": {
+  "elo": 1456.5,
+  "form_points": 0.0,
+  "form_gf": 2.0,
+  "form_ga": 10.5,
+  "pen_share": 0.0,
+  "scorer_diversity": 1.0
+ },
+ "Sint Maarten": {
+  "elo": 1360.4,
+  "form_points": 2.2,
+  "form_gf": 1.4,
+  "form_ga": 0.8,
+  "pen_share": 0.0,
+  "scorer_diversity": 1.0
+ },
+ "Namibia": {
+  "elo": 1434.6,
+  "form_points": 0.2,
+  "form_gf": 0.0,
+  "form_ga": 2.0,
+  "pen_share": 0.0,
+  "scorer_diversity": 1.1
+ },
+ "Ynys Môn": {
+  "elo": 1643.9,
+  "form_points": 2.4,
+  "form_gf": 2.2,
+  "form_ga": 1.4,
+  "pen_share": 0.0,
+  "scorer_diversity": 1.0
+ },
+ "Shetland": {
+  "elo": 1482.6,
+  "form_points": 1.6,
+  "form_gf": 2.6,
+  "form_ga": 1.4,
+  "pen_share": 0.0,
+  "scorer_diversity": 1.0
+ },
+ "Åland Islands": {
+  "elo": 1482.1,
+  "form_points": 0.8,
+  "form_gf": 0.8,
+  "form_ga": 1.8,
+  "pen_share": 0.0,
+  "scorer_diversity": 1.0
+ },
+ "Saint Martin": {
+  "elo": 1328.2,
+  "form_points": 1.8,
+  "form_gf": 1.8,
+  "form_ga": 1.0,
+  "pen_share": 0.0,
+  "scorer_diversity": 1.0
+ },
+ "San Marino": {
+  "elo": 1015.8,
+  "form_points": 0.2,
+  "form_gf": 0.4,
+  "form_ga": 2.8,
+  "pen_share": 0.25,
+  "scorer_diversity": 1.2
+ },
+ "Montserrat": {
+  "elo": 1308.2,
+  "form_points": 0.6,
+  "form_gf": 0.4,
+  "form_ga": 1.4,
+  "pen_share": 0.125,
+  "scorer_diversity": 1.3
+ },
+ "Slovenia": {
+  "elo": 1726.7,
+  "form_points": 1.0,
+  "form_gf": 0.8,
+  "form_ga": 1.2,
+  "pen_share": 0.154,
+  "scorer_diversity": 1.1
+ },
+ "Isle of Wight": {
+  "elo": 1616.1,
+  "form_points": 1.8,
+  "form_gf": 1.6,
+  "form_ga": 1.2,
+  "pen_share": 0.0,
+  "scorer_diversity": 1.0
+ },
+ "Turkmenistan": {
+  "elo": 1398.5,
+  "form_points": 2.4,
+  "form_gf": 2.0,
+  "form_ga": 1.0,
+  "pen_share": 0.056,
+  "scorer_diversity": 1.7
+ },
+ "Tajikistan": {
+  "elo": 1444.2,
+  "form_points": 2.6,
+  "form_gf": 2.8,
+  "form_ga": 0.6,
+  "pen_share": 0.0,
+  "scorer_diversity": 2.2
+ },
+ "Uzbekistan": {
+  "elo": 1783.5,
+  "form_points": 0.8,
+  "form_gf": 1.5,
+  "form_ga": 0.5,
+  "pen_share": 0.05,
+  "scorer_diversity": 1.9
+ },
+ "Eritrea": {
+  "elo": 1257.7,
+  "form_points": 0.0,
+  "form_gf": 0.4,
+  "form_ga": 2.0,
+  "pen_share": 0.0,
+  "scorer_diversity": 1.0
+ },
+ "Isle of Man": {
+  "elo": 1649.5,
+  "form_points": 2.4,
+  "form_gf": 4.6,
+  "form_ga": 1.4,
+  "pen_share": 0.0,
+  "scorer_diversity": 1.0
+ },
+ "Gibraltar": {
+  "elo": 1207.9,
+  "form_points": 0.0,
+  "form_gf": 0.2,
+  "form_ga": 2.8,
+  "pen_share": 0.182,
+  "scorer_diversity": 1.1
+ },
+ "North Macedonia": {
+  "elo": 1602.7,
+  "form_points": 0.6,
+  "form_gf": 0.2,
+  "form_ga": 2.2,
+  "pen_share": 0.0,
+  "scorer_diversity": 1.7
+ },
+ "Czech Republic": {
+  "elo": 1762.0,
+  "form_points": 0.8,
+  "form_gf": 2.0,
+  "form_ga": 1.5,
+  "pen_share": 0.042,
+  "scorer_diversity": 2.3
+ },
+ "Bosnia and Herzegovina": {
+  "elo": 1643.1,
+  "form_points": 0.4,
+  "form_gf": 0.5,
+  "form_ga": 0.5,
+  "pen_share": 0.0,
+  "scorer_diversity": 1.8
+ },
+ "Canary Islands": {
+  "elo": 1512.6,
+  "form_points": 2.25,
+  "form_gf": 2.75,
+  "form_ga": 0.75,
+  "pen_share": 0.0,
+  "scorer_diversity": 1.0
+ },
+ "Andorra": {
+  "elo": 1192.9,
+  "form_points": 0.2,
+  "form_gf": 0.0,
+  "form_ga": 1.6,
+  "pen_share": 0.077,
+  "scorer_diversity": 1.3
+ },
+ "Hitra": {
+  "elo": 1395.2,
+  "form_points": 1.2,
+  "form_gf": 2.8,
+  "form_ga": 2.6,
+  "pen_share": 0.0,
+  "scorer_diversity": 1.0
+ },
+ "Frøya": {
+  "elo": 1289.1,
+  "form_points": 0.6,
+  "form_gf": 1.0,
+  "form_ga": 4.8,
+  "pen_share": 0.0,
+  "scorer_diversity": 1.0
+ },
+ "United States Virgin Islands": {
+  "elo": 1127.2,
+  "form_points": 1.4,
+  "form_gf": 2.2,
+  "form_ga": 1.6,
+  "pen_share": 0.0,
+  "scorer_diversity": 1.286
+ },
+ "Northern Mariana Islands": {
+  "elo": 1161.3,
+  "form_points": 1.4,
+  "form_gf": 1.8,
+  "form_ga": 2.4,
+  "pen_share": 0.0,
+  "scorer_diversity": 1.0
+ },
+ "Turks and Caicos Islands": {
+  "elo": 1205.3,
+  "form_points": 1.4,
+  "form_gf": 1.2,
+  "form_ga": 2.2,
+  "pen_share": 0.286,
+  "scorer_diversity": 1.5
+ },
+ "Micronesia": {
+  "elo": 1420.0,
+  "form_points": 0.6,
+  "form_gf": 1.4,
+  "form_ga": 10.4,
+  "pen_share": 0.0,
+  "scorer_diversity": 1.0
+ },
+ "Gotland": {
+  "elo": 1426.7,
+  "form_points": 1.2,
+  "form_gf": 3.8,
+  "form_ga": 1.6,
+  "pen_share": 0.0,
+  "scorer_diversity": 1.0
+ },
+ "Saare County": {
+  "elo": 1363.7,
+  "form_points": 1.6,
+  "form_gf": 2.4,
+  "form_ga": 2.0,
+  "pen_share": 0.0,
+  "scorer_diversity": 1.0
+ },
+ "Rhodes": {
+  "elo": 1568.9,
+  "form_points": 1.8,
+  "form_gf": 1.8,
+  "form_ga": 0.8,
+  "pen_share": 0.0,
+  "scorer_diversity": 1.0
+ },
+ "Monaco": {
+  "elo": 1486.8,
+  "form_points": 1.4,
+  "form_gf": 1.0,
+  "form_ga": 3.2,
+  "pen_share": 0.0,
+  "scorer_diversity": 1.0
+ },
+ "Western Sahara": {
+  "elo": 1454.0,
+  "form_points": 1.2,
+  "form_gf": 2.2,
+  "form_ga": 4.4,
+  "pen_share": 0.0,
+  "scorer_diversity": 1.0
+ },
+ "Tibet": {
+  "elo": 1324.6,
+  "form_points": 0.2,
+  "form_gf": 2.4,
+  "form_ga": 4.2,
+  "pen_share": 0.0,
+  "scorer_diversity": 1.0
+ },
+ "Falkland Islands": {
+  "elo": 1302.9,
+  "form_points": 0.2,
+  "form_gf": 0.6,
+  "form_ga": 3.2,
+  "pen_share": 0.0,
+  "scorer_diversity": 1.0
+ },
+ "Orkney": {
+  "elo": 1425.5,
+  "form_points": 1.8,
+  "form_gf": 2.0,
+  "form_ga": 1.6,
+  "pen_share": 0.0,
+  "scorer_diversity": 1.0
+ },
+ "Mayotte": {
+  "elo": 1439.7,
+  "form_points": 1.6,
+  "form_gf": 1.2,
+  "form_ga": 0.6,
+  "pen_share": 0.0,
+  "scorer_diversity": 1.0
+ },
+ "Vatican City": {
+  "elo": 1429.8,
+  "form_points": 0.4,
+  "form_gf": 0.6,
+  "form_ga": 3.0,
+  "pen_share": 0.0,
+  "scorer_diversity": 1.0
+ },
+ "Timor-Leste": {
+  "elo": 1028.0,
+  "form_points": 0.6,
+  "form_gf": 0.6,
+  "form_ga": 2.6,
+  "pen_share": 0.0,
+  "scorer_diversity": 1.0
+ },
+ "Sark": {
+  "elo": 1441.0,
+  "form_points": 0.0,
+  "form_gf": 0.0,
+  "form_ga": 17.5,
+  "pen_share": 0.0,
+  "scorer_diversity": 1.0
+ },
+ "Sealand": {
+  "elo": 1502.5,
+  "form_points": 2.2,
+  "form_gf": 3.2,
+  "form_ga": 1.6,
+  "pen_share": 0.0,
+  "scorer_diversity": 1.0
+ },
+ "Occitania": {
+  "elo": 1625.6,
+  "form_points": 2.2,
+  "form_gf": 1.8,
+  "form_ga": 0.6,
+  "pen_share": 0.0,
+  "scorer_diversity": 1.0
+ },
+ "Chechnya": {
+  "elo": 1474.2,
+  "form_points": 0.333,
+  "form_gf": 1.0,
+  "form_ga": 9.667,
+  "pen_share": 0.0,
+  "scorer_diversity": 1.0
+ },
+ "Ambazonia": {
+  "elo": 1429.0,
+  "form_points": 0.0,
+  "form_gf": 0.2,
+  "form_ga": 3.0,
+  "pen_share": 0.0,
+  "scorer_diversity": 1.0
+ },
+ "Western Isles": {
+  "elo": 1459.2,
+  "form_points": 1.4,
+  "form_gf": 1.4,
+  "form_ga": 1.2,
+  "pen_share": 0.0,
+  "scorer_diversity": 1.0
+ },
+ "Kosovo": {
+  "elo": 1677.9,
+  "form_points": 1.4,
+  "form_gf": 1.6,
+  "form_ga": 1.4,
+  "pen_share": 0.0,
+  "scorer_diversity": 1.9
+ },
+ "Republic of St. Pauli": {
+  "elo": 1470.0,
+  "form_points": 1.0,
+  "form_gf": 2.5,
+  "form_ga": 1.25,
+  "pen_share": 0.0,
+  "scorer_diversity": 1.0
+ },
+ "Găgăuzia": {
+  "elo": 1457.4,
+  "form_points": 0.333,
+  "form_gf": 0.667,
+  "form_ga": 3.0,
+  "pen_share": 0.0,
+  "scorer_diversity": 1.0
+ },
+ "Crimea": {
+  "elo": 1512.5,
+  "form_points": 1.8,
+  "form_gf": 1.4,
+  "form_ga": 2.2,
+  "pen_share": 0.0,
+  "scorer_diversity": 1.0
+ },
+ "Sápmi": {
+  "elo": 1459.3,
+  "form_points": 0.6,
+  "form_gf": 0.8,
+  "form_ga": 2.6,
+  "pen_share": 0.0,
+  "scorer_diversity": 1.0
+ },
+ "Romani people": {
+  "elo": 1471.7,
+  "form_points": 0.6,
+  "form_gf": 1.6,
+  "form_ga": 2.8,
+  "pen_share": 0.0,
+  "scorer_diversity": 1.0
+ },
+ "Menorca": {
+  "elo": 1526.2,
+  "form_points": 0.6,
+  "form_gf": 1.2,
+  "form_ga": 1.6,
+  "pen_share": 0.0,
+  "scorer_diversity": 1.0
+ },
+ "Iraqi Kurdistan": {
+  "elo": 1588.6,
+  "form_points": 1.8,
+  "form_gf": 1.8,
+  "form_ga": 0.6,
+  "pen_share": 0.0,
+  "scorer_diversity": 1.0
+ },
+ "Padania": {
+  "elo": 1627.5,
+  "form_points": 1.4,
+  "form_gf": 2.0,
+  "form_ga": 1.0,
+  "pen_share": 0.0,
+  "scorer_diversity": 1.0
+ },
+ "Arameans Suryoye": {
+  "elo": 1536.3,
+  "form_points": 2.0,
+  "form_gf": 1.8,
+  "form_ga": 1.2,
+  "pen_share": 0.0,
+  "scorer_diversity": 1.0
+ },
+ "Gozo": {
+  "elo": 1472.3,
+  "form_points": 1.0,
+  "form_gf": 0.8,
+  "form_ga": 1.2,
+  "pen_share": 0.0,
+  "scorer_diversity": 1.0
+ },
+ "Two Sicilies": {
+  "elo": 1448.5,
+  "form_points": 0.6,
+  "form_gf": 0.4,
+  "form_ga": 2.8,
+  "pen_share": 0.0,
+  "scorer_diversity": 1.0
+ },
+ "Saint Barthélemy": {
+  "elo": 1422.2,
+  "form_points": 1.4,
+  "form_gf": 3.0,
+  "form_ga": 2.4,
+  "pen_share": 0.0,
+  "scorer_diversity": 1.0
+ },
+ "Saint Pierre and Miquelon": {
+  "elo": 1399.6,
+  "form_points": 0.0,
+  "form_gf": 0.4,
+  "form_ga": 12.0,
+  "pen_share": 0.0,
+  "scorer_diversity": 1.0
+ },
+ "Bonaire": {
+  "elo": 1267.1,
+  "form_points": 0.6,
+  "form_gf": 1.2,
+  "form_ga": 3.0,
+  "pen_share": 0.0,
+  "scorer_diversity": 1.0
+ },
+ "Chagos Islands": {
+  "elo": 1405.9,
+  "form_points": 0.0,
+  "form_gf": 1.2,
+  "form_ga": 6.2,
+  "pen_share": 0.0,
+  "scorer_diversity": 1.0
+ },
+ "Raetia": {
+  "elo": 1415.6,
+  "form_points": 1.6,
+  "form_gf": 3.4,
+  "form_ga": 2.2,
+  "pen_share": 0.0,
+  "scorer_diversity": 1.0
+ },
+ "Cilento": {
+  "elo": 1488.2,
+  "form_points": 0.0,
+  "form_gf": 0.0,
+  "form_ga": 2.0,
+  "pen_share": 0.0,
+  "scorer_diversity": 1.0
+ },
+ "Kurdistan": {
+  "elo": 1548.8,
+  "form_points": 2.6,
+  "form_gf": 2.4,
+  "form_ga": 0.4,
+  "pen_share": 0.0,
+  "scorer_diversity": 1.0
+ },
+ "Darfur": {
+  "elo": 1407.1,
+  "form_points": 0.0,
+  "form_gf": 0.2,
+  "form_ga": 13.2,
+  "pen_share": 0.0,
+  "scorer_diversity": 1.0
+ },
+ "Tamil Eelam": {
+  "elo": 1555.2,
+  "form_points": 3.0,
+  "form_gf": 3.4,
+  "form_ga": 0.6,
+  "pen_share": 0.0,
+  "scorer_diversity": 1.0
+ },
+ "South Sudan": {
+  "elo": 1308.1,
+  "form_points": 0.4,
+  "form_gf": 0.2,
+  "form_ga": 2.2,
+  "pen_share": 0.0,
+  "scorer_diversity": 1.0
+ },
+ "Abkhazia": {
+  "elo": 1587.7,
+  "form_points": 1.8,
+  "form_gf": 1.2,
+  "form_ga": 0.6,
+  "pen_share": 0.0,
+  "scorer_diversity": 1.0
+ },
+ "Artsakh": {
+  "elo": 1535.6,
+  "form_points": 2.0,
+  "form_gf": 1.8,
+  "form_ga": 1.6,
+  "pen_share": 0.0,
+  "scorer_diversity": 1.0
+ },
+ "Madrid": {
+  "elo": 1486.0,
+  "form_points": 0.0,
+  "form_gf": 1.0,
+  "form_ga": 2.0,
+  "pen_share": 0.0,
+  "scorer_diversity": 1.0
+ },
+ "Quebec": {
+  "elo": 1511.3,
+  "form_points": 2.0,
+  "form_gf": 8.0,
+  "form_ga": 0.667,
+  "pen_share": 0.0,
+  "scorer_diversity": 1.0
+ },
+ "Saugeais": {
+  "elo": 1495.6,
+  "form_points": 1.0,
+  "form_gf": 1.0,
+  "form_ga": 1.0,
+  "pen_share": 0.0,
+  "scorer_diversity": 1.0
+ },
+ "South Ossetia": {
+  "elo": 1482.3,
+  "form_points": 1.6,
+  "form_gf": 1.6,
+  "form_ga": 1.2,
+  "pen_share": 0.0,
+  "scorer_diversity": 1.0
+ },
+ "Ellan Vannin": {
+  "elo": 1555.4,
+  "form_points": 2.0,
+  "form_gf": 1.8,
+  "form_ga": 1.0,
+  "pen_share": 0.0,
+  "scorer_diversity": 1.0
+ },
+ "Somaliland": {
+  "elo": 1486.1,
+  "form_points": 1.2,
+  "form_gf": 2.4,
+  "form_ga": 3.6,
+  "pen_share": 0.0,
+  "scorer_diversity": 1.0
+ },
+ "Franconia": {
+  "elo": 1507.7,
+  "form_points": 2.0,
+  "form_gf": 2.667,
+  "form_ga": 3.667,
+  "pen_share": 0.0,
+  "scorer_diversity": 1.0
+ },
+ "County of Nice": {
+  "elo": 1570.0,
+  "form_points": 2.0,
+  "form_gf": 2.2,
+  "form_ga": 1.6,
+  "pen_share": 0.0,
+  "scorer_diversity": 1.0
+ },
+ "Seborga": {
+  "elo": 1481.6,
+  "form_points": 0.0,
+  "form_gf": 2.0,
+  "form_ga": 3.0,
+  "pen_share": 0.0,
+  "scorer_diversity": 1.0
+ },
+ "Székely Land": {
+  "elo": 1466.9,
+  "form_points": 1.4,
+  "form_gf": 3.0,
+  "form_ga": 1.8,
+  "pen_share": 0.0,
+  "scorer_diversity": 1.0
+ },
+ "Luhansk PR": {
+  "elo": 1490.8,
+  "form_points": 1.4,
+  "form_gf": 1.8,
+  "form_ga": 2.2,
+  "pen_share": 0.0,
+  "scorer_diversity": 1.0
+ },
+ "Donetsk PR": {
+  "elo": 1511.8,
+  "form_points": 1.6,
+  "form_gf": 1.6,
+  "form_ga": 1.2,
+  "pen_share": 0.0,
+  "scorer_diversity": 1.0
+ },
+ "Panjab": {
+  "elo": 1537.6,
+  "form_points": 1.4,
+  "form_gf": 3.6,
+  "form_ga": 2.0,
+  "pen_share": 0.0,
+  "scorer_diversity": 1.0
+ },
+ "Felvidék": {
+  "elo": 1508.2,
+  "form_points": 1.8,
+  "form_gf": 1.0,
+  "form_ga": 0.8,
+  "pen_share": 0.0,
+  "scorer_diversity": 1.0
+ },
+ "United Koreans in Japan": {
+  "elo": 1495.6,
+  "form_points": 1.2,
+  "form_gf": 1.4,
+  "form_ga": 0.8,
+  "pen_share": 0.0,
+  "scorer_diversity": 1.0
+ },
+ "Western Armenia": {
+  "elo": 1487.0,
+  "form_points": 1.0,
+  "form_gf": 1.6,
+  "form_ga": 1.0,
+  "pen_share": 0.0,
+  "scorer_diversity": 1.0
+ },
+ "Kárpátalja": {
+  "elo": 1565.5,
+  "form_points": 2.6,
+  "form_gf": 2.8,
+  "form_ga": 0.8,
+  "pen_share": 0.0,
+  "scorer_diversity": 1.0
+ },
+ "Délvidék": {
+  "elo": 1496.4,
+  "form_points": 1.5,
+  "form_gf": 2.0,
+  "form_ga": 1.5,
+  "pen_share": 0.0,
+  "scorer_diversity": 1.0
+ },
+ "Barawa": {
+  "elo": 1409.9,
+  "form_points": 0.6,
+  "form_gf": 0.4,
+  "form_ga": 5.0,
+  "pen_share": 0.0,
+  "scorer_diversity": 1.0
+ },
+ "Ryūkyū": {
+  "elo": 1484.6,
+  "form_points": 0.0,
+  "form_gf": 0.0,
+  "form_ga": 9.0,
+  "pen_share": 0.0,
+  "scorer_diversity": 1.0
+ },
+ "Yorkshire": {
+  "elo": 1547.8,
+  "form_points": 2.4,
+  "form_gf": 4.0,
+  "form_ga": 2.0,
+  "pen_share": 0.0,
+  "scorer_diversity": 1.0
+ },
+ "Surrey": {
+  "elo": 1516.0,
+  "form_points": 3.0,
+  "form_gf": 3.0,
+  "form_ga": 1.0,
+  "pen_share": 0.0,
+  "scorer_diversity": 1.0
+ },
+ "Matabeleland": {
+  "elo": 1499.8,
+  "form_points": 1.6,
+  "form_gf": 0.6,
+  "form_ga": 0.4,
+  "pen_share": 0.0,
+  "scorer_diversity": 1.0
+ },
+ "Cascadia": {
+  "elo": 1528.5,
+  "form_points": 2.0,
+  "form_gf": 4.0,
+  "form_ga": 1.8,
+  "pen_share": 0.0,
+  "scorer_diversity": 1.0
+ },
+ "Kabylia": {
+  "elo": 1472.2,
+  "form_points": 1.0,
+  "form_gf": 1.6,
+  "form_ga": 1.4,
+  "pen_share": 0.0,
+  "scorer_diversity": 1.0
+ },
+ "Parishes of Jersey": {
+  "elo": 1511.2,
+  "form_points": 2.0,
+  "form_gf": 3.667,
+  "form_ga": 1.333,
+  "pen_share": 0.0,
+  "scorer_diversity": 1.0
+ },
+ "Chameria": {
+  "elo": 1519.5,
+  "form_points": 1.6,
+  "form_gf": 1.8,
+  "form_ga": 0.8,
+  "pen_share": 0.0,
+  "scorer_diversity": 1.0
+ },
+ "Saint Helena": {
+  "elo": 1401.1,
+  "form_points": 0.0,
+  "form_gf": 0.6,
+  "form_ga": 3.8,
+  "pen_share": 0.0,
+  "scorer_diversity": 1.0
+ },
+ "West Papua": {
+  "elo": 1480.3,
+  "form_points": 0.5,
+  "form_gf": 1.5,
+  "form_ga": 4.5,
+  "pen_share": 0.0,
+  "scorer_diversity": 1.0
+ },
+ "East Turkestan": {
+  "elo": 1480.1,
+  "form_points": 1.2,
+  "form_gf": 3.0,
+  "form_ga": 3.2,
+  "pen_share": 0.0,
+  "scorer_diversity": 1.0
+ },
+ "Yoruba Nation": {
+  "elo": 1484.4,
+  "form_points": 0.5,
+  "form_gf": 0.5,
+  "form_ga": 1.0,
+  "pen_share": 0.0,
+  "scorer_diversity": 1.0
+ },
+ "Biafra": {
+  "elo": 1516.3,
+  "form_points": 2.0,
+  "form_gf": 0.667,
+  "form_ga": 0.333,
+  "pen_share": 0.0,
+  "scorer_diversity": 1.0
+ },
+ "Mapuche": {
+  "elo": 1500.6,
+  "form_points": 1.5,
+  "form_gf": 1.5,
+  "form_ga": 1.0,
+  "pen_share": 0.0,
+  "scorer_diversity": 1.0
+ },
+ "Maule Sur": {
+  "elo": 1528.7,
+  "form_points": 3.0,
+  "form_gf": 1.0,
+  "form_ga": 0.0,
+  "pen_share": 0.0,
+  "scorer_diversity": 1.0
+ },
+ "Aymara": {
+  "elo": 1470.7,
+  "form_points": 0.0,
+  "form_gf": 0.5,
+  "form_ga": 2.0,
+  "pen_share": 0.0,
+  "scorer_diversity": 1.0
+ },
+ "Elba Island": {
+  "elo": 1507.8,
+  "form_points": 3.0,
+  "form_gf": 5.0,
+  "form_ga": 0.0,
+  "pen_share": 0.0,
+  "scorer_diversity": 1.0
+ },
+ "Ticino": {
+  "elo": 1462.1,
+  "form_points": 0.0,
+  "form_gf": 1.0,
+  "form_ga": 6.5,
+  "pen_share": 0.0,
+  "scorer_diversity": 1.0
+ },
+ "Hmong": {
+  "elo": 1479.6,
+  "form_points": 1.0,
+  "form_gf": 2.0,
+  "form_ga": 3.333,
+  "pen_share": 0.0,
+  "scorer_diversity": 1.0
+ },
+ "Marshall Islands": {
+  "elo": 1447.2,
+  "form_points": 0.0,
+  "form_gf": 1.0,
+  "form_ga": 3.5,
+  "pen_share": 0.0,
+  "scorer_diversity": 1.0
+ }
+}

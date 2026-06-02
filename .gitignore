@@ -1,0 +1,22 @@
+# Dados (não versionar bases grandes)
+data/raw/*
+data/processed/*
+!data/raw/.gitkeep
+!data/processed/.gitkeep
+
+# Modelos
+models/*.joblib
+
+# Ambiente Python
+.venv/
+__pycache__/
+*.pyc
+
+# Jupyter
+.ipynb_checkpoints/
+
+# VS Code
+.vscode/
+
+# Sistema
+.DS_Store
